@@ -6,3 +6,6 @@ Aquesta recerca és un anàlisi sobre l’impacte que ha tingut i està tenint l
 
 # ABSTRACT English
 This research is an analysis of the impact that artificial intelligence has on and is having in relation to industrial property law, specifically in patents. Current regulations are inefficient and inconsistent when applied to inventions created in through a machine. The legal aspects analyzed are the authorship of the inventions and the ownership of them. This study has analyzed the state-of-the-art of artificial intelligence, the main challenges and future changes; and has combined it with the various authorship and property propositions that have been drawn up from European and American literature. Finally, a model based on the author-machine concept and the user as the default owner has been proposed. This approach is flexible and holistic enough to be a true solution to future challenges. It is crucial that the various legislators do not miss this opportunity, because we are still on time.
+
+
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
